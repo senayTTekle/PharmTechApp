@@ -15,7 +15,7 @@ import com.bhcc.app.pharmtech.R;
 import com.bhcc.app.pharmtech.view.EditDatabase;
 
 /**
- * senay tekle PharmApp group project 12/11/2017
+ * senay tekle Pharm App group project 12/11/2017
  */
 
 public class Settings extends Fragment{
